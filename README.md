@@ -7,7 +7,7 @@ I want to build a team of other authors and editors to collaborate on writing a 
 
 My idea is to assign particular individuals to particular tasks: narrative structure, description of settings, dialogue, edits, consistency across the book, editing spellings, illustrations - all that stuff.
 
-I know very little about coding but have run my own website using Textpatter, with some knowledge of HTML and Markup - meaning that I probably feel marginally less freaked out here on GitHub than many other authors might feel.
+I know very little about coding but have run my own website using Textpattern, with some knowledge of HTML and Markup - meaning that I probably feel marginally less freaked out here on GitHub than many other authors might feel.
 
 Anyway, some coding people I know have talked about GitHub in a way that made it seem possible that it could be a place to run this experiment in collaborative writing. 
 
